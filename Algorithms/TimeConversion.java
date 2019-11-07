@@ -1,11 +1,5 @@
 /* Link to challenge on Hackerrank: https://www.hackerrank.com/challenges/time-conversion/problem */
 
-import java.io.*;
-import java.math.*;
-import java.text.*;
-import java.util.*;
-import java.util.regex.*;
-
 public class Solution {
     static String timeConversion(String s) {
         
