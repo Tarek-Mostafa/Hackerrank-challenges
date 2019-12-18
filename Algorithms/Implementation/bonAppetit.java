@@ -1,3 +1,5 @@
+// Link to challenge: https://www.hackerrank.com/challenges/bon-appetit/problem
+
 static void bonAppetit(List<Integer> bill, int k, int b) {
   int amountToBePainByAnna = 0;
   for(int i = 0; i < bill.size(); i++) {
